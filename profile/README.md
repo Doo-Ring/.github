@@ -11,7 +11,7 @@
 
 | Repository | 설명 |
 |------------|------|
-| [`dooring-mobile-rn`](https://github.com/Doo-Ring/dooring-mobile-rn) | React Native 기반 메인 앱 |
+| [`dooring-mobile-rn`](https://github.com/Doo-Ring/dooring-mobile-rn) | Boiler plate for React Native |
 | [`dooring-modile-webview`](https://github.com/Doo-Ring/dooring-modile-webview) | 앱 내부에서 띄워지는 WebView 콘텐츠 |
 | [`dooring-api-server`](https://github.com/Doo-Ring/dooring-api-server) | Django 기반의 API 서버 |
 | [`dooring-mobile-app`](https://github.com/Doo-Ring/dooring-mobile-app) | **레거시 앱 (보존용)** – 초기 버전 |
