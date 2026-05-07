@@ -1,46 +1,22 @@
-# 두링 (Doo-Ring)
+# 두링 Doo-Ring
 
-> 연인들을 위한 미션 기반 기록 서비스  
-> **사진**, **채팅**, **소감 작성**으로 함께한 순간을 앱 안에서 추억하세요.
+**일상 속 낭만을 심어주는 커플 미션 앱**
 
----
-
-## 🧩 프로젝트 구성
-
-두링은 아래의 주요 컴포넌트로 구성된 서비스입니다:
-
-| Repository | 설명 |
-|------------|------|
-| [`dooring-mobile-rn`](https://github.com/Doo-Ring/dooring-mobile-rn) | Boiler plate for React Native |
-| [`dooring-modile-webview`](https://github.com/Doo-Ring/dooring-modile-webview) | 앱 내부에서 띄워지는 WebView 콘텐츠 |
-| [`dooring-api-server`](https://github.com/Doo-Ring/dooring-api-server) | Django 기반의 API 서버 |
-| [`dooring-mobile-app`](https://github.com/Doo-Ring/dooring-mobile-app) | **레거시 앱 (보존용)** – 초기 버전 |
+함께 있어도, 따로 있어도 모든 순간을 사랑스럽게 연결해 주는 '낭만 미션'을 달성하고 기록하는 커플앱입니다.
 
 ---
 
-## 🧱 기술 스택
+## 어떤 앱인가요?
 
-- **Frontend**
-  - React Native (Expo)
-  - React + Vite + TailwindCSS (WebView)
-- **Backend**
-  - Django REST Framework
-- **Infra**
-  - Docker / Nginx
-  - MySQL
-  - S3 / MinIO (for image storage)
+- **우리 같이** — 함께하는 낭만 버킷리스트. 모닥불 앞에서 마시멜로 굽기, 어묵 국물 호호 불며 해돋이 보기처럼 소소하지만 특별한 미션을 하나씩 이뤄가요.
+- **두리 따로** — 따로 있어도 함께인 듯. 바쁜 각자의 일상 속 작은 미션 하나로 두 사람을 연결해 줘요.
+- **기록** — 낭만의 순간을 추억으로. 두 사람이 기록을 완성해야만 서로의 소감을 확인할 수 있는 두링만의 설렘 장치.
 
 ---
 
-## 🚀 서비스 기능 요약
+## Links
 
-- 커플 미션 생성 및 인증
-- 사진 업로드 및 기록
-- 채팅 및 소감 남기기
-- 웹뷰 기반의 미션 상세 UI
-
----
-
-## 🛠️ 사용법 및 개발 가이드
-
-각 리포지토리별 README에서 확인할 수 있습니다.
+- App Store: [두링 Doo-ring](https://apps.apple.com/kr/app/%EB%91%90%EB%A7%81-doo-ring/id6752209677)
+- Google Play: [두링 Doo-ring](https://play.google.com/store/apps/details?id=com.ifproject.countingstar&hl=ko)
+- LinkedIn: [Doo-Ring](https://www.linkedin.com/company/%EB%91%90%EB%A7%81/about/?viewAsMember=true)
+- Threads: [@_doo_ring](https://www.threads.com/@_doo_ring/)
